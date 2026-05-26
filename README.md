@@ -16,3 +16,7 @@ Created an interactive Power BI dashboard to analyze sales, profit, category, an
 
 ## 🚀 Outcome
 Improved understanding of business intelligence and dashboard creation.
+
+## Dashboard Preview
+
+![Dashboard Screenshot](dashboard.png)
